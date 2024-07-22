@@ -1,0 +1,8 @@
+age=int(input("enter the age \n"))
+if(age>=18 and age<24):
+    print("only two wheeler")
+elif(age>=24 and age<45):
+    print("two and four wheeler")
+else:
+    print("All")
+

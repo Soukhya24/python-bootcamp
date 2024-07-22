@@ -1,0 +1,1 @@
+#sort the element 1st half in ascending order and 2nd half in descending order

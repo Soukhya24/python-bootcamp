@@ -1,0 +1,14 @@
+my_list=[1,2,3,4,10]
+my_list.append(9999)
+my_list.insert(8000,999)
+print(len(my_list))
+my_list.pop(5)
+my_list.pop(5)
+my_list_2=[6,7,8]
+new_list=my_list.copy()
+new_list.pop()
+new_list=my_list+my_list_2
+print(*new_list)
+cnt=my_list.count(2)
+my_list.sort()  
+print(my_list)
