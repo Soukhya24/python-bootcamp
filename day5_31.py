@@ -1,0 +1,12 @@
+#strings
+n=(input( ))
+print(len(n))
+print(n.upper())
+print(n.lower())
+print(n.title())
+print(n.replace('o','z'))
+print(n.capitalize())
+print(n.split())
+print(n.swapcase())
+print(n.split(' '))
+print(n.strip())
